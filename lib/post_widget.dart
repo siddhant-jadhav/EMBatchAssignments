@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// assignemtn 4 instagram page ui updates
 class PostWidget extends StatefulWidget {
   final String name;
   final String subtitle;

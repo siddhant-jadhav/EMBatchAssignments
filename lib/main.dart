@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'home_page.dart';
-
+// assignemtn 4 instagram page ui updates
 void main() {
   runApp(const MyApp());
 }
